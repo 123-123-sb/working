@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\xlc29\Desktop\代码\my_strstrj\源.cpp(6,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\xlc29\Desktop\代码\my_strstrj\源.cpp(7,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\xlc29\Desktop\代码\my_strstrj\源.cpp(31,1): warning C4715: “my_strstr”: 不是所有的控件路径都返回值
+  my_strstrj.vcxproj -> C:\Users\xlc29\Desktop\代码\my_strstrj\x64\Debug\my_strstrj.exe
